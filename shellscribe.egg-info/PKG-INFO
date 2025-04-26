@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: shellscribe
+Version: 0.1.0
+Summary: A CLI tool to generate and insert code using AI
+Author: Yusuf Sabuwala
+Author-email: yusuff.0279@example.com
+Requires-Python: >=3.7
+Requires-Dist: requests
