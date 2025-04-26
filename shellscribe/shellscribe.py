@@ -5,7 +5,7 @@ import re
 import os
 import json
 
-SERVER_URL = "http://localhost:5000/generate"
+SERVER_URL = "https://shellscribe.onrender.com/generate"
 HISTORY_FILE = os.path.expanduser("~/.shellscribe_history.json")
 
 def load_history():
