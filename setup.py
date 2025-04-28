@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="shellscribe",
-    version="0.1.2",
+    version="0.1.3",
     description="A CLI tool to generate and insert code using AI",
     long_description=long_description,
     long_description_content_type="text/markdown",
