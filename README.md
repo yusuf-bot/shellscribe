@@ -18,9 +18,21 @@ pip install shellscribe
 CLI usage:
 
 ```bash
-shellscribe write "Write a Python function that calculates the factorial of a number."
+> shellscribe
+
+    ███████╗██╗  ██╗███████╗██╗     ██╗     ███████╗ ██████╗██████╗ ██╗██████╗ ███████╗
+    ██╔════╝██║  ██║██╔════╝██║     ██║     ██╔════╝██╔════╝██╔══██╗██║██╔══██╗██╔════╝
+    ███████╗███████║█████╗  ██║     ██║     ███████╗██║     ██████╔╝██║██████╔╝█████╗
+██╗██╔══╝
+    ███████║██║  ██║███████╗███████╗███████╗███████║╚██████╗██║  ██║██║██████╔╝███████╗
+    ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
+
+Welcome to ShellScribe! Type 'help' to see available commands.
 ```
 
 ```bash
-shellscribe file "Create a Python class for a simple calculator with add, subtract, multiply, and divide methods" calculator.py"
+>>write "Create a Python class for a simple calculator with add, subtract, multiply, and divide methods", calculator.py
+```
+```bash
+>>prompt "Create a Python class for a simple calculator with add, subtract, multiply, and divide methods"
 ```

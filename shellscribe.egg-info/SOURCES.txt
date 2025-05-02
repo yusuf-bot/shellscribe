@@ -1,0 +1,10 @@
+README.md
+setup.py
+shellscribe/__init__.py
+shellscribe/shellscribe.py
+shellscribe.egg-info/PKG-INFO
+shellscribe.egg-info/SOURCES.txt
+shellscribe.egg-info/dependency_links.txt
+shellscribe.egg-info/entry_points.txt
+shellscribe.egg-info/requires.txt
+shellscribe.egg-info/top_level.txt
